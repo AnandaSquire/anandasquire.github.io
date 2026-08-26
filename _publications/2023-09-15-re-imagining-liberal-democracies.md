@@ -1,6 +1,7 @@
 ---
 title: "Re-Imagining Liberal Democracies in the Face of COVID-19"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-re-imagining-liberal-democracies
 excerpt: 'An examination of democratic resilience and institutional adaptation during the COVID-19 pandemic from a Caribbean perspective.'
 date: 2023-09-15
