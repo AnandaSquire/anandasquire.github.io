@@ -89,7 +89,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   manuscripts:
-    title: "Manuscripts / Book Chapters"
+    title: "Book Chapters"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
