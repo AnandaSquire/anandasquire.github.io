@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Miami, Florida"
   employer         : "Florida International University"
-  uri              : [https://anandasquire.github.io]
+  uri              : "https://anandasquire.github.io"
   email            : "asqui@fiu.edu" 
 
   # Academic websites
