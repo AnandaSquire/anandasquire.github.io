@@ -3,7 +3,7 @@ title: "Re-Imagining Liberal Democracies in the Face of COVID-19"
 collection: publications
 permalink: /publication/2023-re-imagining-liberal-democracies
 excerpt: 'An examination of democratic resilience and institutional adaptation during the COVID-19 pandemic from a Caribbean perspective.'
-date: 2023-01-01
+date: 2023-09-15
 venue: 'Rethinking Democracy and Governance: Perspectives from the Caribbean'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F2CKKCYAAAAJ&citation_for_view=F2CKKCYAAAAJ:9yKSN-GCB0IC'
 citation: 'Squire, A., & Graham, T. (2023). "Re-Imagining Liberal Democracies in the Face of COVID-19." In <i>Rethinking Democracy and Governance: Perspectives from the Caribbean</i>. Taylor & Francis.'
