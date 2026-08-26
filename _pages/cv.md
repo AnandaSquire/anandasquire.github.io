@@ -32,11 +32,9 @@ redirect_from:
 ---
 
 ## Publications
-
-### Book Chapters
 * Squire, A., & Graham, T. (2023). "Re-Imagining Liberal Democracies in the Face of COVID-19." In D. Johnson (Ed.), *Rethinking Democracy and Governance: Perspectives from the Caribbean*. Taylor & Francis.
 
-### Working Papers
+## Working Papers
 * Laing, L., **Squire, A.**, & Johnson, D. "Building the Foundations: Designing and Sustaining AI Infrastructure for Effective Public Sector Deployment." In W. Chen (Ed.), *Artificial Intelligence for Better Government: Essential Insights for Academics and Practitioners*. *(Under Review)*
 * **Squire, A.**, & Ganapati, N. E. "Managing Institutional Complexity in Collaborative Governance: Multi-Sector Stakeholder Insights on Housing Resilience."
 * **Squire, A.**, Neshkova, M., & Johnson, D. "Relational Deficits in Post-Disaster Contracting."
