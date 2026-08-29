@@ -31,7 +31,7 @@ author:
   email            : "asqui@fiu.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://pa.fiu.edu/programs/graduate-programs/phd-in-public-affairs/doctoral-student-profiles/profiles/ananda-squire.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=F2CKKCYAAAAJ"
   inspire-hep      : # URL
@@ -42,7 +42,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  zotero           : # URL
+  zotero           : "https://www.zotero.org/anandasquire"
 
 
   # Repositories and software development
